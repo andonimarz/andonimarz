@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarzana&show_icons=true&locale=en&layout=compact" alt="amarzana" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andonimarz&show_icons=true&locale=en&layout=compact" alt="andonimarz" /></p>
 
 <!--
 **andonimarz/andonimarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
